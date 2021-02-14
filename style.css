@@ -1,0 +1,30 @@
+body {
+    background-color: #212529 !important;
+    color:#AEC6CF;
+    text-align: center;
+}
+.menu {
+    text-align: center;
+    font-size: larger;
+    background-color: #212529 !important;
+    color:#AEC6CF;
+    padding: 1.5rem !important;
+}
+#Image1 {
+    width: 50%;
+    height: 50%;
+}
+a:hover, a:active, a:focus {
+  color:#c33;
+}
+a:visited {
+  color: #636;
+}
+a {
+  color: #2c87f0;
+}
+#code {
+    color:#c33;
+    font-size:larger;
+}
+// This is not all the CSS I did. There is some in-style CSS as well.
